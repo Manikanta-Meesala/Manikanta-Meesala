@@ -13,7 +13,7 @@
 
 <p align="center">
   <img
-    src="YOUR_PROFILE_IMAGE_URL"
+    src="assets/Manikanta_Meesala.png"
     alt="Manikanta Meesala"
     width="180"
     height="180"
