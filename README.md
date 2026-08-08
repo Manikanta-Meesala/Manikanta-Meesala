@@ -1,10 +1,10 @@
 <div align="center"> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manikanta-Meesala/Manikanta-Meesala/main/dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manikanta-Meesala/Manikanta-Meesala/main/light.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manikanta-Meesala/Manikanta-Meesala/main/light.svg">
   <img
     alt="Manikanta"
-    src="https://raw.githubusercontent.com/Manikanta-Meesala/Manikanta-Meesala/main/dark.svg">
+    src="https://raw.githubusercontent.com/Manikanta-Meesala/Manikanta-Meesala/main/light.svg">
 </picture>
 </div>
 
